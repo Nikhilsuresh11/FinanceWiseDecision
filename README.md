@@ -35,6 +35,7 @@ cd finance-wise-decision
 pip install -r requirements.txt
 ```
 
+---
 
 
 ## Results
@@ -75,7 +76,6 @@ pip install -r requirements.txt
 
 ## Customer Segmentation Outcomes
 
----
 
 ## About Dataset
 
@@ -123,10 +123,6 @@ This dataset contains information related to customers and their credit card usa
 - **Segment 2**: Cross-sell through in-bank managers, and promotional advertisements (Servicescape Promotions).
 
 ---
-
-This concise summary provides a clear overview of your dataset, objectives, feature descriptions, and key insights from the analysis.
-
-These points highlight the main considerations and conclusions of your analysis.
 
 ## License
 
