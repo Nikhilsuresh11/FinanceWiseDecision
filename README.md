@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ## Credit Card Fraud Detection Outcomes
 
-### SVM and Random Forest were not used:
+### SVM, KNN and Random Forest were not used:
 - **SVM**: Inefficient with large datasets due to high computational power and time requirements, especially with K-Fold cross-validation.
 - **Random Forest**: Also computationally intensive, hence not used for all hyperparameter tuning with oversampling.
 -  **KNN**: KNN is not memory efficient. It becomes very slow as the number of data points increases as the model needs to store all the data points. It is computationally heavy because for a single datapoint the algorithm has to calculate the distance of all the datapoints and find the nearest neighbors.
