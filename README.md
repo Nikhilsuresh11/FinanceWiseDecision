@@ -1,12 +1,7 @@
 # FinanceWiseDecision
 
-Here's a README file for your finance-wise decision project, complete with emojis:
 
----
-
-# 📊 Finance-Wise Decision
-
-Welcome to the Finance-Wise Decision project! This repository contains solutions for bank loan eligibility, credit card fraud detection, and customer segmentation. Our goal is to leverage data science to make smarter financial decisions.
+ This repository contains solutions for bank loan eligibility, credit card fraud detection, and customer segmentation.
 
 ## Table of Contents
 
@@ -37,7 +32,7 @@ This project addresses three key financial challenges:
 To get started, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/finance-wise-decision.git
+https://github.com/Nikhilsuresh11/FinanceWiseDecision.git
 cd finance-wise-decision
 pip install -r requirements.txt
 ```
@@ -50,15 +45,11 @@ pip install -r requirements.txt
 - **Credit Card Fraud Detection**: [Link to dataset](#)
 - **Customer Segmentation**: [Link to dataset](#)
 
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
 Enjoy coding and making finance-wise decisions! 🚀
 
