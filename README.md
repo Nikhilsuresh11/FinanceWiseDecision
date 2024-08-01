@@ -8,9 +8,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Datasets](#datasets)
-- [Contributing](#contributing)
+- [Results](#results)
 - [License](#license)
 
 ## Introduction
@@ -39,11 +37,8 @@ pip install -r requirements.txt
 
 
 
-## Datasets
+## Results
 
-- **Bank Loan Eligibility**: [Link to dataset](#)
-- **Credit Card Fraud Detection**: [Link to dataset](#)
-- **Customer Segmentation**: [Link to dataset](#)
 
 
 ## License
