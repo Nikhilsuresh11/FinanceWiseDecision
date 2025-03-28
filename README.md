@@ -123,11 +123,3 @@ This dataset contains information related to customers and their credit card usa
 - **Segment 2**: Cross-sell through in-bank managers, and promotional advertisements (Servicescape Promotions).
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
-Enjoy coding and making finance-wise decisions! 🚀
-
